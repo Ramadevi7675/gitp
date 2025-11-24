@@ -1,3 +1,4 @@
-this is my hello git from feature not master
+this line is coming from newfeature branch
+
 this is my sec line, learning git
 thereis new feature
